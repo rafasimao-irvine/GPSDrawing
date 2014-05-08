@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSDrawing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Interface strings -->
+    <string name="tv_group_id">Group ID: </string>
+    <string name="tv_draw_id">Draw ID: </string>
+    <string name="bt_upload">UPLOAD</string>
+    
+    <string name="rb_red">RED</string>
+    <string name="rb_green">GREEN</string>
+    <string name="rb_blue">BLUE</string>
+    
+    <string name="tv_location">Location: </string>
+    <string name="tv_color">Color: </string>
+    <string name="tv_pen">Pen: </string>
+    <string name="tv_buffer">Buffer: </string>
+
+    
+</resources>
